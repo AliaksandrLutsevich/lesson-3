@@ -151,7 +151,6 @@ body {
     color: #66d8ed;
     border-color: #66d8ed; 
     transition: all 1s ease; 
-    transform-origin: center bottom;
 	transform: skew(-9deg);
 }
 
